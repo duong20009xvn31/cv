@@ -406,7 +406,8 @@ img{
 }
 
 .qualification__work{
-    display: block;
+    display: flex;
+    align-items: center;
 }
 
 /* SERVICES */
