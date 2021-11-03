@@ -255,6 +255,7 @@ img {
 .show-scroll {
     visibility: visible;
     bottom: 1.5rem;
+    right: 95%;
 }
 
 /* HOME */
